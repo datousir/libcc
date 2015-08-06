@@ -1,0 +1,2 @@
+# libcc
+A concurrency library
